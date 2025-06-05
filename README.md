@@ -11,6 +11,9 @@ implements:
 reviewed: 2025-06-04T19:29:28+02:00
 sources:
 ---
+
+Investition & Finanzierung:
+
 # Statische Verfahren der Investitionsrechnung
 ---
 **Grundgedanke:** Statische Verfahren betrachten in der Regel nur *eine einzige durchschnittliche Periode* (z.B. ein durchschnittliches Jahr) der Nutzungsdauer einer Investition. Der Zeitwert des Geldes (also Zinseszinseffekte) wird nicht oder nur vereinfacht berücksichtigt. Sie sind relativ einfach zu berechnen, haben aber dadurch auch Schwächen in ihrer Aussagekraft.
